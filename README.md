@@ -8,3 +8,7 @@ In original script author take mailcow_hostname, witch sometimes not equal to cu
 And i disable SSL checks, because i had self signed certificate.
 
 Install instruction at the mailcow official site - https://docs.mailcow.email/third_party/roundcube/third_party-roundcube/#let-admins-log-into-roundcube-without-password
+
+
+## For OpenId mailcow version
+I made some changes for working with nightly version of mailcow with OpenId indentification funcionality - `rc-auth-oidp.php`
